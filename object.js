@@ -20,3 +20,6 @@ const valoHoyeJaw = {
     }
 
 }
+console.log(valoHoyeJaw.isReligious);
+console.log(valoHoyeJaw.Name);
+valoHoyeJaw.isReligious();
